@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light dark">
+  <script>
+    try {
+      document.querySelector('meta[name="color-scheme"]').content = localStorage.getItem("color-scheme") ?? "light dark";
+    } catch (_) {}
+  </script>
+  <title>AntonioJosé · Radar Dev, IA & 3D</title>
+  <meta name="description" content="Directorio curado de proyectos open source, repositorios de GitHub, herramientas de IA, 3D/CAD y recursos de desarrollo recopilados desde @AntonioJose81.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="bg-glow" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand-row">
+        <div class="brand-badge">
+          <span class="pulse-dot" aria-hidden="true"></span>
+          <span>@AntonioJose81 · Archivo Curado</span>
+        </div>
+        <button id="theme-toggle" class="icon-btn theme-toggle" type="button" aria-label="Cambiar tema de color">
+          <span class="theme-option theme-to-dark">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+            <span class="visually-hidden">Cambiar a tema oscuro</span>
+          </span>
+          <span class="theme-option theme-to-light">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>
+            <span class="visually-hidden">Cambiar a tema claro</span>
+          </span>
+        </button>
+      </div>
+
+      <div class="hero-grid">
+        <div class="hero-copy">
+          <h1>Radar <span class="gradient-text">Dev, IA & 3D</span></h1>
+          <p class="hero-subtitle">
+            Colección personal de repositorios de GitHub, herramientas open source, modelos locales, skills para agentes de IA y proyectos de 3D/CAD rescatados de mis reposts en X.
+          </p>
+        </div>
+
+        <dl class="stats-grid" aria-label="Resumen de la colección">
+          <div class="stat-card">
+            <dt>Recursos</dt>
+            <dd id="stat-total">—</dd>
+          </div>
+          <div class="stat-card">
+            <dt>GitHub</dt>
+            <dd id="stat-github">—</dd>
+          </div>
+          <div class="stat-card">
+            <dt>Webs & HF</dt>
+            <dd id="stat-web">—</dd>
+          </div>
+          <div class="stat-card">
+            <dt>Categorías</dt>
+            <dd id="stat-categories">7</dd>
+          </div>
+        </dl>
+      </div>
+    </div>
+  </header>
+
+  <section class="controls-bar" aria-label="Búsqueda, filtros y agrupación">
+    <div class="container controls-inner">
+      <div class="top-controls">
+        <div class="search-box">
+          <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+          <input id="search-input" type="search" placeholder="Buscar proyectos, repos, Blender, MCP, CAD, @autor…" autocomplete="off" aria-label="Buscar proyectos y recursos">
+          <kbd class="kbd-hint" aria-hidden="true">/</kbd>
+          <button id="search-clear" class="search-clear" type="button" hidden aria-label="Limpiar búsqueda">&times;</button>
+        </div>
+
+        <div class="view-controls">
+          <div class="segmented" role="group" aria-label="Modo de agrupación">
+            <button type="button" class="seg-btn is-active" data-group="grid" aria-pressed="true">Cuadrícula</button>
+            <button type="button" class="seg-btn" data-group="category" aria-pressed="false">Por categoría</button>
+            <button type="button" class="seg-btn" data-group="type" aria-pressed="false">Por tipo</button>
+          </div>
+
+          <label class="sort-wrap">
+            <span class="visually-hidden">Ordenar por</span>
+            <select id="sort-select" class="sort-select" aria-label="Ordenar recursos">
+              <option value="date-desc">Más recientes</option>
+              <option value="date-asc">Más antiguos</option>
+              <option value="title-asc">Título (A–Z)</option>
+              <option value="github-first">Repos GitHub primero</option>
+            </select>
+          </label>
+        </div>
+      </div>
+
+      <div class="filter-row">
+        <div id="category-filters" class="pill-strip" role="group" aria-label="Filtrar por categoría"></div>
+      </div>
+
+      <div class="filter-row secondary-row">
+        <div id="type-filters" class="pill-strip compact" role="group" aria-label="Filtrar por tipo de enlace"></div>
+        <div id="active-tag-wrap" class="active-tag-wrap" hidden>
+          <span>Etiqueta:</span>
+          <button id="active-tag-btn" type="button" class="tag-pill active-tag" title="Quitar filtro de etiqueta"></button>
+        </div>
+        <div class="results-meta">
+          <span id="results-count">Cargando…</span>
+          <button id="reset-filters" type="button" class="reset-link" hidden>Limpiar filtros</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <main class="container main-content">
+    <p id="reorder-status" role="status" class="visually-hidden"></p>
+    <div id="catalog-root" class="catalog-root"></div>
+
+    <div id="empty-state" class="empty-state" hidden>
+      <div class="empty-icon" aria-hidden="true">⌕</div>
+      <h2>No hay recursos con esos filtros</h2>
+      <p>Prueba a cambiar el texto de búsqueda o restablecer las categorías seleccionadas.</p>
+      <button id="empty-reset" type="button" class="btn-primary">Ver todos los recursos</button>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>
+        Compilado desde los reposts de <a href="https://x.com/AntonioJose81/reposts" target="_blank" rel="noopener noreferrer">@AntonioJose81</a> · Listo para GitHub Pages.
+      </p>
+      <p class="footer-note">Pulsa <kbd>/</kbd> para buscar · Pulsa <kbd>★</kbd> en cualquier tarjeta para guardar tus favoritos en este navegador.</p>
+    </div>
+  </footer>
+
+  <dialog id="detail-dialog" class="detail-dialog" closedby="any" aria-labelledby="dialog-title">
+    <div class="dialog-shell">
+      <header class="dialog-header">
+        <div class="dialog-badges" id="dialog-badges"></div>
+        <form method="dialog">
+          <button type="submit" class="icon-btn close-btn" aria-label="Cerrar ventana">&times;</button>
+        </form>
+      </header>
+      <div class="dialog-body">
+        <h2 id="dialog-title"></h2>
+        <p id="dialog-desc" class="dialog-desc"></p>
+        <div class="dialog-tweet-box">
+          <div class="dialog-tweet-meta">
+            <span id="dialog-author" class="dialog-author"></span>
+            <span id="dialog-date" class="dialog-date"></span>
+          </div>
+          <p id="dialog-original" class="dialog-original"></p>
+        </div>
+        <div id="dialog-tags" class="card-tags"></div>
+        <div id="dialog-links" class="dialog-links"></div>
+      </div>
+    </div>
+  </dialog>
+
+  <script src="./data/projects.js"></script>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
