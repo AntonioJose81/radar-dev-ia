@@ -1,5 +1,610 @@
 [
   {
+    "id": "sync-1795520598641-0",
+    "title": "SIGAN A ESTA PERSONA NO DIRÉ NADA MÁS..",
+    "description": "SIGAN A ESTA PERSONA NO DIRÉ NADA MÁS.. luego me lo agradeceréis. — Resuelve un nudo matemático en solo 88 horas.. 10,000 agentes de inteligencia artificial de OpenAI resolvieron el famoso rompecabezas de la…",
+    "category": "3d-cad-bim",
+    "type": "x",
+    "primaryUrl": "https://x.com/larsholst_/status/2124976952113045787",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/larsholst_/status/2124976952113045787",
+    "author": "lars",
+    "handle": "@larsholst_",
+    "date": "2026-11-23",
+    "tags": [
+      "CAD"
+    ],
+    "originalText": "SIGAN A ESTA PERSONA NO DIRÉ NADA MÁS..\n\nluego me lo agradeceréis.\n\n[Quoted]: Resuelve un nudo matemático en solo 88 horas.. \n\n10,000 agentes de inteligencia artificial de OpenAI resolvieron el famoso rompecabezas de las ecuaciones de Navier-Stokes de la física, que dejó perplejos a los grandes científicos durante décadas.\n\n¿Cómo se logró este milagro"
+  },
+  {
+    "id": "sync-1795520598641-1",
+    "title": "Chicos, los de Anthropic acaban de subir esto a un repo de github",
+    "description": "Chicos, los de Anthropic acaban de subir esto a un repo de github Ya lo vieron???",
+    "category": "desarrollo-oss",
+    "type": "x",
+    "primaryUrl": "https://x.com/ErickSky/status/2125020514280477110",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/ErickSky/status/2125020514280477110",
+    "author": "Erick",
+    "handle": "@ErickSky",
+    "date": "2026-11-24",
+    "tags": [
+      "Open Source"
+    ],
+    "originalText": "Chicos, los de Anthropic acaban de subir esto a un repo de github\n\nYa lo vieron???"
+  },
+  {
+    "id": "sync-1795520598642-2",
+    "title": "¿En serio? ¡¡El principiante de Antigravity cambió el mundo con T…",
+    "description": "¿En serio? ¡¡El principiante de Antigravity cambió el mundo con T3 Code y Colab!! ¡¡Gemini 4 Neon es increíble!! Vídeo de dron aéreo desde las calles de Londres → ¡¡El Palacio de Buckingham, aaaah!! Desde Pi…",
+    "category": "3d-cad-bim",
+    "type": "x",
+    "primaryUrl": "https://x.com/niramayo2096/status/2125056812072264101",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/niramayo2096/status/2125056812072264101",
+    "author": "にらまよ",
+    "handle": "@niramayo2096",
+    "date": "2026-11-24",
+    "tags": [
+      "CAD",
+      "Gemini"
+    ],
+    "originalText": "¿En serio? ¡¡El principiante de Antigravity cambió el mundo con T3 Code y Colab!! ¡¡Gemini 4 Neon es increíble!!\n\nVídeo de dron aéreo desde las calles de Londres → ¡¡El Palacio de Buckingham, aaaah!!\n\nDesde Piccadilly, donde los icónicos autobuses rojos de dos pisos van y"
+  },
+  {
+    "id": "sync-1795520598642-3",
+    "title": "¿Necesito este GIF en WhatsApp? 🤣",
+    "description": "¿Necesito este GIF en WhatsApp? 🤣",
+    "category": "noticias-guias",
+    "type": "x",
+    "primaryUrl": "https://x.com/iAl3eez/status/2124889459367784833",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/iAl3eez/status/2124889459367784833",
+    "author": "عزيز تقني",
+    "handle": "@iAl3eez",
+    "date": "2026-11-23",
+    "tags": [
+      "noticias-guias"
+    ],
+    "originalText": "¿Necesito este GIF en WhatsApp? 🤣"
+  },
+  {
+    "id": "sync-1795520599062-4",
+    "title": "Si estás usando Gemini 4 Neon, te recomiendo encarecidamente inst…",
+    "description": "Si estás usando Gemini 4 Neon, te recomiendo encarecidamente instalar en tu Agent este pequeño widget recién abierto por Google: gemini-api-cli. Este nuevo google-gemini/gemini-api-cli (el comando se llama g…",
+    "category": "video-diseno",
+    "type": "github",
+    "primaryUrl": "https://github.com/google-gemini/",
+    "domain": "github.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/don_tech1/status/2124630542738202805",
+    "author": "晨空",
+    "handle": "@don_tech1",
+    "date": "2026-11-22",
+    "tags": [
+      "Open Source",
+      "MCP",
+      "Agent Skill",
+      "Gemini"
+    ],
+    "originalText": "Si estás usando Gemini 4 Neon, te recomiendo encarecidamente instalar en tu Agent este pequeño widget recién abierto por Google: gemini-api-cli.\n\nEste nuevo google-gemini/gemini-api-cli (el comando se llama gemini-api) es un solo archivo Go sin dependencias, diseñado específicamente para servir como \"complemento multimodal\" a tu AI Agent.\n\nUna vez instalado, con una API Key configurada y el Skill oficial de gemini-api-cli agregado, tu Agent de programación podrá hacer directamente estas tareas en la terminal:\n\n- Generar imágenes o editarlas con una sola frase (Nano Banana), crear videos (Veo)\n- Sintetizar voces para múltiples roles (TTS), generar música pura de fondo (Lyria)\n- Analizar PDFs locales, OCR de imágenes, e incluso analizar directamente un enlace de YouTube\n- Convertir audio y video directamente a subtítulos SRT con marcas de tiempo, y activar investigación profunda en segundo plano\n\nLo más interesante son los datos de pruebas reales ejecutados por los propios ingenieros de Google DeepMind:\n\nAntes, para que el Agent invocara capacidades multimodales, tenía que adivinar nombres de modelos, escribir scripts temporales en Python o armar curls, y a menudo terminaba saturando la ventana de contexto con un montón de Base64.\n\nCon este CLI + Skill, los archivos se escriben directamente en el disco duro, y la terminal solo devuelve una ruta de archivo:\n\nEn pruebas reales, ahorra un promedio del 85.8% de tokens y acelera el proceso casi 2 veces.\n\nNo necesitas lidiar con servicios MCP en segundo plano constantes, ni configurar entornos de ejecución; viene nativamente con --help, --schema y --dry-run, por lo que el Agent lo usará de inmediato.\n\nSi eres desarrollador full-stack o independiente, puedes escribir código y, de paso, dejar que el Agent complete todas las imágenes de página, efectos de sonido y videos de demostración.\n\nDirección del proyecto: \nhttp://\ngithub.com/google-gemini/\ngemini-api-cli\n…\nSkill oficial: \nhttp://\ngithub.com/google-gemini/\ngemini-skills\n…\n\n[Quoted]: If you're building things w/Gemini 4 Neon that could benefit from easy access to Gemini's ability to do video analysis, OCR, or multi-media gen (tts, music, videos, images) you will be blown away by simple installing `gemini-cli`, setting an API key & installing skill\n\nIt's even"
+  },
+  {
+    "id": "sync-1795520599201-5",
+    "title": "Cada vez nos llegan más webs con alguna incidencia de seguridad:…",
+    "description": "Cada vez nos llegan más webs con alguna incidencia de seguridad: redirecciones raras, avisos de Google, usuarios fantasma... Nuevo servicio de auditoría de seguridad y limpieza de malware para WordPress. Pre…",
+    "category": "3d-cad-bim",
+    "type": "web",
+    "primaryUrl": "https://webprogramacion.com/seguridad-word",
+    "domain": "webprogramacion.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/damasovelazquez/status/2125154088316813735",
+    "author": "Dámaso Velázquez",
+    "handle": "@damasovelazquez",
+    "date": "2026-11-24",
+    "tags": [
+      "CAD"
+    ],
+    "originalText": "Cada vez nos llegan más webs con alguna incidencia de seguridad: redirecciones raras, avisos de Google, usuarios fantasma...\n\nNuevo servicio de auditoría de seguridad y limpieza de malware para WordPress. Precio fijo y sin permanencia.\n\n\nhttps://\nwebprogramacion.com/seguridad-word\npress/\n…"
+  },
+  {
+    "id": "sync-1795520599349-6",
+    "title": "AULA TURISMO",
+    "description": "AULA TURISMO https:// youtube.com/@aula_turismo? si=6k6MI8HxQyrLdbPo … vía @YouTube Vamos con el apoyito gente @luciaanvr03 que estás hoy desaparecida. Impuksemos el canal.",
+    "category": "video-diseno",
+    "type": "web",
+    "primaryUrl": "https://youtube.com\nAULA TURISMO\n🌍 El mundo está lleno de cosas que nunca te habías parado a pensar. ¿Por qué nuestro cerebro nos engaña? 🧠 ¿Qué secretos esconden los lugares que visitamos? ¿Cómo influyen el marketing y la...",
+    "domain": "youtube.xn--comaula%20turismo%20el%20mundo%20est%20lleno%20de%20cosas%20que%20nunca%20te%20habas%20parado%20a%20pensar-uri65k216024a.xn--%20por%20qu%20nuestro%20cerebro%20nos%20engaa-5mc69q6l",
+    "extraUrls": [
+      "https://youtube.com/@aula_turismo"
+    ],
+    "tweetUrl": "https://x.com/AlvaroPB18/status/2125186061508682125",
+    "author": "Álvaro Pérez Bueno",
+    "handle": "@AlvaroPB18",
+    "date": "2026-11-24",
+    "tags": [
+      "video-diseno"
+    ],
+    "originalText": "AULA TURISMO \nhttps://\nyoutube.com/@aula_turismo?\nsi=6k6MI8HxQyrLdbPo\n… vía \n@YouTube\n\nVamos con el apoyito gente \n@luciaanvr03\n que estás hoy desaparecida. Impuksemos el canal."
+  },
+  {
+    "id": "sync-1795520599349-7",
+    "title": "Qué divertido😅",
+    "description": "Qué divertido😅",
+    "category": "noticias-guias",
+    "type": "x",
+    "primaryUrl": "https://x.com/z0072024/status/2124852948027240848",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/z0072024/status/2124852948027240848",
+    "author": "Trader✨Z007",
+    "handle": "@z0072024",
+    "date": "2026-11-23",
+    "tags": [
+      "noticias-guias"
+    ],
+    "originalText": "Qué divertido😅"
+  },
+  {
+    "id": "sync-1795520599501-8",
+    "title": "DabbleCAD: An offline, open-source alternative to Tinkercad for 3D",
+    "description": "DabbleCAD: An offline, open-source alternative to Tinkercad for 3D https:// blog.adafruit.com/2026/11/23/dab blecad-an-offline-open-source-alternative-to-tinkercad-for-3d/ …",
+    "category": "3d-cad-bim",
+    "type": "web",
+    "primaryUrl": "https://adafruit.com/2026/11/23/dab",
+    "domain": "adafruit.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/adafruit/status/2124879691660014041",
+    "author": "adafruit industries",
+    "handle": "@adafruit",
+    "date": "2026-11-23",
+    "tags": [
+      "Open Source",
+      "CAD"
+    ],
+    "originalText": "DabbleCAD: An offline, open-source alternative to Tinkercad for 3D\n\n\nhttps://\nblog.adafruit.com/2026/11/23/dab\nblecad-an-offline-open-source-alternative-to-tinkercad-for-3d/\n…"
+  },
+  {
+    "id": "sync-1795520599501-9",
+    "title": "ADIÓS A LAS WEBS CON CARA DE IA.",
+    "description": "👋 ADIÓS A LAS WEBS CON CARA DE IA. Los degradados morados, las tarjetas todas iguales, los botones genéricos que te hace Claude. Estas 5 skills lo arreglan: ↓↓",
+    "category": "agentes-ia",
+    "type": "x",
+    "primaryUrl": "https://x.com/franpradasAI/status/2124557793357398428",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/franpradasAI/status/2124557793357398428",
+    "author": "Fran Pradas | Ingeniero de IA",
+    "handle": "@franpradasAI",
+    "date": "2026-11-22",
+    "tags": [
+      "Agent Skill",
+      "Claude"
+    ],
+    "originalText": "👋 ADIÓS A LAS WEBS CON CARA DE IA.\n\nLos degradados morados, las tarjetas todas iguales, los botones genéricos que te hace Claude.\n\nEstas 5 skills lo arreglan: ↓↓"
+  },
+  {
+    "id": "sync-1795520599501-10",
+    "title": "Encontré el nuevo gif que voy a poner en los mensajes de buenos d…",
+    "description": "Encontré el nuevo gif que voy a poner en los mensajes de buenos días de WhatsApp",
+    "category": "noticias-guias",
+    "type": "x",
+    "primaryUrl": "https://x.com/sbzomer/status/2125118467988709693",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/sbzomer/status/2125118467988709693",
+    "author": "Ömerr",
+    "handle": "@sbzomer",
+    "date": "2026-11-24",
+    "tags": [
+      "noticias-guias"
+    ],
+    "originalText": "Encontré el nuevo gif que voy a poner en los mensajes de buenos días de WhatsApp"
+  },
+  {
+    "id": "sync-1795520599501-11",
+    "title": "I’m 37, from Spain, building in Barcelona.",
+    "description": "I’m 37, from Spain, building in Barcelona. Senior AI Product Engineer (ex @MetaMask , @IOTA , @letgo ). Building AI-native products with a focus on Voice AI. Looking to #connect with people who are into: • V…",
+    "category": "noticias-guias",
+    "type": "x",
+    "primaryUrl": "https://x.com/albertolco88/status/2124866071375040547",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/albertolco88/status/2124866071375040547",
+    "author": "Albert",
+    "handle": "@albertolco88",
+    "date": "2026-11-23",
+    "tags": [
+      "noticias-guias"
+    ],
+    "originalText": "I’m 37, from Spain, building in Barcelona.\n\nSenior AI Product Engineer (ex \n@MetaMask\n, \n@IOTA\n, \n@letgo\n). Building AI-native products with a focus on Voice AI.\n\nLooking to #connect with people who are into:\n• Voice AI\n• Solo founders & indie hackers\n• SaaS & App Dev\n• Building in"
+  },
+  {
+    "id": "sync-1795520599640-12",
+    "title": "Ojo, porque GTA 6 ya tiene su primer parche: todo lo que cambia e…",
+    "description": "Ojo, porque GTA 6 ya tiene su primer parche: todo lo que cambia en la actualización de Vice City en PS5 y Xbox Series",
+    "category": "noticias-guias",
+    "type": "x",
+    "primaryUrl": "https://x.com/vidaextra/status/2124901646052286693",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/vidaextra/status/2124901646052286693",
+    "author": "Vidaextra",
+    "handle": "@vidaextra",
+    "date": "2026-11-23",
+    "tags": [
+      "noticias-guias"
+    ],
+    "originalText": "Ojo, porque GTA 6 ya tiene su primer parche: todo lo que cambia en la actualización de Vice City en PS5 y Xbox Series"
+  },
+  {
+    "id": "sync-1795520599834-13",
+    "title": "ai-3d-animator-skill",
+    "description": "¡El modelado con IA es solo el comienzo, esta Skill incluso se encarga de la animación de personajes, la dirección de cámara y los efectos de sonido! La IA hace 3D, hacer modelos está bien, pero cómo lograr…",
+    "category": "3d-cad-bim",
+    "type": "x",
+    "primaryUrl": "https://x.com/CY160909/status/2124994149216649703",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/CY160909/status/2124994149216649703",
+    "author": "Shlcy",
+    "handle": "@CY160909",
+    "date": "2026-11-23",
+    "tags": [
+      "Agent Skill"
+    ],
+    "originalText": "¡El modelado con IA es solo el comienzo, esta Skill incluso se encarga de la animación de personajes, la dirección de cámara y los efectos de sonido!\n\nLa IA hace 3D, hacer modelos está bien, pero cómo lograr movimientos fluidos es un problema\n\nEl Pro 3D Animator convirtió el"
+  },
+  {
+    "id": "sync-1795520599834-14",
+    "title": "Conoce Gemini 4 Neon. 🚀⚙️",
+    "description": "Conoce Gemini 4 Neon. 🚀⚙️ Un nuevo modelo diseñado para equilibrar rendimiento de vanguardia, velocidad y eficiencia en costos. Está optimizado para resolver flujos de trabajo complejos en programación, cie…",
+    "category": "video-diseno",
+    "type": "x",
+    "primaryUrl": "https://x.com/googleespanol/status/2124936284548255928",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/googleespanol/status/2124936284548255928",
+    "author": "Google en español",
+    "handle": "@googleespanol",
+    "date": "2026-11-23",
+    "tags": [
+      "Gemini"
+    ],
+    "originalText": "Conoce Gemini 4 Neon. 🚀⚙️\n\nUn nuevo modelo diseñado para equilibrar rendimiento de vanguardia, velocidad y eficiencia en costos. \n\nEstá optimizado para resolver flujos de trabajo complejos en programación, ciencia y análisis.\n\nConoce más aquí: 👇🧵"
+  },
+  {
+    "id": "sync-1795520599834-15",
+    "title": "Un pedazo de placa de circuito impreso de cinco dólares, una Rasp…",
+    "description": "Un pedazo de placa de circuito impreso de cinco dólares, una Raspberry Pi Pico 2 y cuatro putos cables acaban de follarse toda la estrategia de marketing de NVIDIA y han convertido una vieja tarjeta de miner…",
+    "category": "noticias-guias",
+    "type": "x",
+    "primaryUrl": "https://x.com/axrbarsic/status/2125020765833593285",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/axrbarsic/status/2125020765833593285",
+    "author": "пояснительная бригада",
+    "handle": "@axrbarsic",
+    "date": "2026-11-24",
+    "tags": [
+      "noticias-guias"
+    ],
+    "originalText": "Un pedazo de placa de circuito impreso de cinco dólares, una Raspberry Pi Pico 2 y cuatro putos cables acaban de follarse toda la estrategia de marketing de NVIDIA y han convertido una vieja tarjeta de minería de 8 GB en un puto monstruo que se carga con facilidad a una A100 de"
+  },
+  {
+    "id": "sync-1795520599977-16",
+    "title": "⚫Ha sido su pareja, quien ha confirmado la muerte a través de Ins…",
+    "description": "⚫Ha sido su pareja, quien ha confirmado la muerte a través de Instagram",
+    "category": "noticias-guias",
+    "type": "x",
+    "primaryUrl": "https://x.com/A3Noticias/status/2124996418880299219",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/A3Noticias/status/2124996418880299219",
+    "author": "Antena 3 Noticias",
+    "handle": "@A3Noticias",
+    "date": "2026-11-23",
+    "tags": [
+      "noticias-guias"
+    ],
+    "originalText": "⚫Ha sido su pareja, quien ha confirmado la muerte a través de Instagram"
+  },
+  {
+    "id": "sync-1795520599977-17",
+    "title": "Y cuando MK vino a Brasil y tuvo uno de los videos de baloncesto…",
+    "description": "Y cuando MK vino a Brasil y tuvo uno de los videos de baloncesto más virales de la historia",
+    "category": "video-diseno",
+    "type": "x",
+    "primaryUrl": "https://x.com/PerolasdaNBA/status/2124974346141929920",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/PerolasdaNBA/status/2124974346141929920",
+    "author": "Pérolas da NBA",
+    "handle": "@PerolasdaNBA",
+    "date": "2026-11-23",
+    "tags": [
+      "video-diseno"
+    ],
+    "originalText": "Y cuando MK vino a Brasil y tuvo uno de los videos de baloncesto más virales de la historia"
+  },
+  {
+    "id": "sync-1795520599977-18",
+    "title": "Hermanos, no importa si tienes la suscripción Google AI Pro o Ultra",
+    "description": "Hermanos, no importa si tienes la suscripción Google AI Pro o Ultra ¡No olvides reclamar el crédito gratis de Google Cloud!!! ¡Se puede usar para activar un VPS o como API! La suscripción Pro es de 10 dólare…",
+    "category": "noticias-guias",
+    "type": "web",
+    "primaryUrl": "https://google.com/ai-student",
+    "domain": "google.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/weichen_ink/status/2124827807683424629",
+    "author": "微尘印记",
+    "handle": "@weichen_ink",
+    "date": "2026-11-23",
+    "tags": [
+      "Gemini"
+    ],
+    "originalText": "Hermanos, no importa si tienes la suscripción Google AI Pro o Ultra\n\n¡No olvides reclamar el crédito gratis de Google Cloud!!!\n\n¡Se puede usar para activar un VPS o como API!\n\nLa suscripción Pro es de 10 dólares/mes, la suscripción Ultra es de 40 dólares/mes\n\n¡Este no se\n\n[Quoted]: ¡Joder! ¡De verdad que con 30 yuanes ya puedes suscribirte a Google AI Pro!!!\n\n¡Y encima puedes usar el último Gemini 4 Neon!!!\n\nEl método es súper sencillo, solo hace falta tener manos...\n\n1️⃣ Ve a Telegram o Discord y consigue una verificación de estudiante; si buscas en 𝕏, hay\nhttps://\npayments.google.com\nhttps://\nplay.google.com\nhttps://\none.google.com/ai-student"
+  },
+  {
+    "id": "sync-1795520599977-19",
+    "title": "We aren't even vibe coding anymore, now we're vibe merging",
+    "description": "We aren't even vibe coding anymore, now we're vibe merging",
+    "category": "noticias-guias",
+    "type": "x",
+    "primaryUrl": "https://x.com/bherbruckx/status/2125001896154788040",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/bherbruckx/status/2125001896154788040",
+    "author": "Brennen Herbruck",
+    "handle": "@bherbruckx",
+    "date": "2026-11-23",
+    "tags": [
+      "noticias-guias"
+    ],
+    "originalText": "We aren't even vibe coding anymore, now we're vibe merging"
+  },
+  {
+    "id": "sync-1795520599977-20",
+    "title": "\udc79🐍La mujer que sacó a su gato doméstico afuera por sus extraños…",
+    "description": "🔥👹🐍La mujer que sacó a su gato doméstico afuera por sus extraños movimientos, grabó esos momentos y preguntó por la razón de su comportamiento.🦞",
+    "category": "noticias-guias",
+    "type": "x",
+    "primaryUrl": "https://x.com/saadalsaedy77/status/2124995166251741516",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/saadalsaedy77/status/2124995166251741516",
+    "author": "Saad alsaede",
+    "handle": "@saadalsaedy77",
+    "date": "2026-11-23",
+    "tags": [
+      "noticias-guias"
+    ],
+    "originalText": "🔥👹🐍La mujer que sacó a su gato doméstico afuera por sus extraños movimientos, grabó esos momentos y preguntó por la razón de su comportamiento.🦞"
+  },
+  {
+    "id": "sync-1795520599977-21",
+    "title": "La forma de jubilarse de los estadounidenses es una auténtica LOC…",
+    "description": "La forma de jubilarse de los estadounidenses es una auténtica LOCURA 🇺🇸😶‍🌫️ 🇪🇺 En Europa: - Trabajas hasta el final de tu vida. - Cada mes pagas al sistema. - Cumples 67 años. - Te jubilas. - Te llega…",
+    "category": "3d-cad-bim",
+    "type": "x",
+    "primaryUrl": "https://x.com/dgrszlzynp/status/2124948490417492249",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/dgrszlzynp/status/2124948490417492249",
+    "author": "zeynep",
+    "handle": "@dgrszlzynp",
+    "date": "2026-11-23",
+    "tags": [
+      "CAD"
+    ],
+    "originalText": "La forma de jubilarse de los estadounidenses es una auténtica LOCURA 🇺🇸😶‍🌫️\n\n🇪🇺 En Europa:\n\n- Trabajas hasta el final de tu vida.\n- Cada mes pagas al sistema.\n- Cumples 67 años.\n- Te jubilas.\n- Te llega tu pensión.\n- Sales a caminar.\n\n🇺🇸 En Estados Unidos ↓↓"
+  },
+  {
+    "id": "sync-1795520599977-22",
+    "title": "ESTO ES POSIBLE 😳",
+    "description": "ESTO ES POSIBLE 😳 Un NPC de GTA6 mató al jugador... Ahora todos los jugadores de internet están buscando a ese NPC😂",
+    "category": "noticias-guias",
+    "type": "x",
+    "primaryUrl": "https://x.com/Alex_Inspira/status/2124911900458659935",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/Alex_Inspira/status/2124911900458659935",
+    "author": "Alexander Inspira IA",
+    "handle": "@Alex_Inspira",
+    "date": "2026-11-23",
+    "tags": [
+      "noticias-guias"
+    ],
+    "originalText": "ESTO ES POSIBLE 😳\n\nUn NPC de GTA6 mató al jugador...\n\nAhora todos los jugadores de internet están buscando a ese NPC😂"
+  },
+  {
+    "id": "sync-1795520599977-23",
+    "title": "tr",
+    "description": "ICYMI, Inkling 2 Mini @thinkymachines is out, a 26B looped transformer (3.4B active) small enough to run on your laptop you can already fine-tune it with TRL! the example teaches it to read analog clocks, go…",
+    "category": "modelos-llm",
+    "type": "github",
+    "primaryUrl": "https://github.com/huggingface/tr",
+    "domain": "github.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/SergioPaniego/status/2124824853438149046",
+    "author": "Sergio Paniego",
+    "handle": "@SergioPaniego",
+    "date": "2026-11-23",
+    "tags": [
+      "Open Source"
+    ],
+    "originalText": "ICYMI, Inkling 2 Mini \n@thinkymachines\n is out, a 26B looped transformer (3.4B active) small enough to run on your laptop\n\nyou can already fine-tune it with TRL!\n\nthe example teaches it to read analog clocks, going from 0% to 87% read to the second after 53 min of LoRA on one H100\n\n[Quoted]: perfect size to be post-trained!!\n\nwe've worked on an example -> \nhttps://\ngithub.com/huggingface/tr\nl/tree/main/examples/sft_inkling_2_mini_clocks\n…"
+  },
+  {
+    "id": "sync-1795520599977-24",
+    "title": "A mother raccoon sat high on the flooded car,",
+    "description": "A mother raccoon sat high on the flooded car, babies pressed close against her fur. She would not move until every one was safe",
+    "category": "noticias-guias",
+    "type": "x",
+    "primaryUrl": "https://x.com/amezingnaturep/status/2124938478207267219",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/amezingnaturep/status/2124938478207267219",
+    "author": "Nature is amazing",
+    "handle": "@amezingnaturep",
+    "date": "2026-11-23",
+    "tags": [
+      "noticias-guias"
+    ],
+    "originalText": "A mother raccoon sat high on the flooded car,  \nbabies pressed close against her fur.  She would not move until every one was safe"
+  },
+  {
+    "id": "sync-1795520599977-25",
+    "title": "Yo pago Internet para esto.",
+    "description": "Yo pago Internet para esto.",
+    "category": "noticias-guias",
+    "type": "x",
+    "primaryUrl": "https://x.com/mellizonomics/status/2124936139106812346",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/mellizonomics/status/2124936139106812346",
+    "author": "David Núñez Longueira",
+    "handle": "@mellizonomics",
+    "date": "2026-11-23",
+    "tags": [
+      "noticias-guias"
+    ],
+    "originalText": "Yo pago Internet para esto."
+  },
+  {
+    "id": "sync-1795520600117-26",
+    "title": "https://",
+    "description": "https:// fabworks.com just got way faster: - big CAD files upload ~2x faster - STEP files parse ~7x faster - DFM checks run ~4x faster on complex parts Here's a 2,204-hole perforated panel dropping into a qu…",
+    "category": "3d-cad-bim",
+    "type": "x",
+    "primaryUrl": "https://x.com/jonathan_sessa/status/2124994290598420574",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/jonathan_sessa/status/2124994290598420574",
+    "author": "Jonathan | Fabworks 🏭",
+    "handle": "@jonathan_sessa",
+    "date": "2026-11-23",
+    "tags": [
+      "CAD"
+    ],
+    "originalText": "https://\nfabworks.com just got way faster:\n\n- big CAD files upload ~2x faster\n- STEP files parse ~7x faster\n- DFM checks run ~4x faster on complex parts\n\nHere's a 2,204-hole perforated panel dropping into a quote in ~5 seconds."
+  },
+  {
+    "id": "sync-1795520600117-27",
+    "title": "Finally!! you don't need fancy 3D characters to pull millions of…",
+    "description": "Finally!! you don't need fancy 3D characters to pull millions of views on short videos! This guy just racked up 11.5M views from 9 Shorts in 3 days and monetized his page with nearly 5M likes on a single cli…",
+    "category": "3d-cad-bim",
+    "type": "x",
+    "primaryUrl": "https://x.com/AveryRunsAI/status/2124894798263795740",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/AveryRunsAI/status/2124894798263795740",
+    "author": "Avery",
+    "handle": "@AveryRunsAI",
+    "date": "2026-11-23",
+    "tags": [
+      "3d-cad-bim"
+    ],
+    "originalText": "Finally!! you don't need fancy 3D characters to pull millions of views on short videos!   \n\nThis guy just racked up 11.5M views from 9 Shorts in 3 days  and monetized his page with nearly 5M likes on a single clip here is how🤯👇    \n\nI recreated the exact viral video below using"
+  },
+  {
+    "id": "sync-1795520600117-28",
+    "title": "Oficial cheat 😱 Si estás usando Gemini 4 Neon, te recomiendo enc…",
+    "description": "Oficial cheat 😱 Si estás usando Gemini 4 Neon, te recomiendo encarecidamente que le instales a tu Agent este truco oficial recién open-sourceado por Google: gemini-api-cli 🚀 En pocas palabras, esto es un s…",
+    "category": "video-diseno",
+    "type": "x",
+    "primaryUrl": "https://x.com/0xjackkk/status/2125052495596859770",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/0xjackkk/status/2125052495596859770",
+    "author": "贝吉塔Again™",
+    "handle": "@0xjackkk",
+    "date": "2026-11-24",
+    "tags": [
+      "Open Source",
+      "Agent Skill",
+      "Gemini"
+    ],
+    "originalText": "Oficial cheat 😱 Si estás usando Gemini 4 Neon, te recomiendo encarecidamente que le instales a tu Agent este truco oficial recién open-sourceado por Google: gemini-api-cli 🚀\n\nEn pocas palabras, esto es un solo archivo Go sin dependencias (el comando se llama gemini-api),\n\n[Quoted]: If you're building things w/Gemini 4 Neon that could benefit from easy access to Gemini's ability to do video analysis, OCR, or multi-media gen (tts, music, videos, images) you will be blown away by simple installing `gemini-cli`, setting an API key & installing skill\n\nIt's even"
+  },
+  {
+    "id": "sync-1795520600117-29",
+    "title": "5 cuentas imprescindibles para seguir Google Antigravity🔥",
+    "description": "5 cuentas imprescindibles para seguir Google Antigravity🔥 1、Google Antigravity 官方 @antigravity ｜cuenta oficial Las nuevas funciones se publican aquí primero: actualizaciones de la versión de escritorio, /sw…",
+    "category": "3d-cad-bim",
+    "type": "x",
+    "primaryUrl": "https://x.com/xiaomovps/status/2125023450599428485",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/xiaomovps/status/2125023450599428485",
+    "author": "小墨同学",
+    "handle": "@xiaomovps",
+    "date": "2026-11-24",
+    "tags": [
+      "CAD"
+    ],
+    "originalText": "5 cuentas imprescindibles para seguir Google Antigravity🔥\n\n1、Google Antigravity 官方 \n@antigravity\n｜cuenta oficial\n\nLas nuevas funciones se publican aquí primero: actualizaciones de la versión de escritorio, /swarm de múltiples agentes, diseño de flujos de trabajo de\n\n[Quoted]: En un minuto te enseño cómo sacarle todo el partido a la suscripción de Google de 20 dólares y amortizarla sin esfuerzo\n\nHe publicado bastantes trucos de Antigravity y Colab, y mucha gente me pregunta si, si no programas ni te pasas el día trasteando con agentes, contratar Google x.com/xiaomovps/stat…"
+  },
+  {
+    "id": "sync-1795520600117-30",
+    "title": "Madre mía eh.",
+    "description": "Madre mía eh. Ojito con Gemini Neon en Antigravity. Me está haciendo una herramienta que había creado con Fable 5.2 y Opus en menos tiempo, más eficiente, y me está gustando más. Ya no hablemos de tokens, po…",
+    "category": "noticias-guias",
+    "type": "x",
+    "primaryUrl": "https://x.com/Carlos_Pareja27/status/2124981455952756889",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/Carlos_Pareja27/status/2124981455952756889",
+    "author": "Carlos Pareja",
+    "handle": "@Carlos_Pareja27",
+    "date": "2026-11-23",
+    "tags": [
+      "Claude",
+      "Gemini"
+    ],
+    "originalText": "Madre mía eh.\nOjito con Gemini Neon en Antigravity.\nMe está haciendo una herramienta que había creado con Fable 5.2 y Opus en menos tiempo, más eficiente, y me está gustando más.\nYa no hablemos de tokens, porque lo de Anthropic es pa mear y no echar gota"
+  },
+  {
+    "id": "sync-1795520600117-31",
+    "title": "Google Ultra es la mejor suscripción de IA que hay ahora mismo si…",
+    "description": "🚨Google Ultra es la mejor suscripción de IA que hay ahora mismo sin duda Todos los beneficios que te da AI Ultra ✨: - Límites de Antigravity x5 o x20 - 40 o 100 USD en créditos de GCP - 1.000 o 2.000 unidad…",
+    "category": "noticias-guias",
+    "type": "x",
+    "primaryUrl": "https://x.com/amaliometria/status/2125000743648362919",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/amaliometria/status/2125000743648362919",
+    "author": "NOTICIAS IA | Amaliometria",
+    "handle": "@amaliometria",
+    "date": "2026-11-23",
+    "tags": [
+      "noticias-guias"
+    ],
+    "originalText": "🚨Google Ultra es la mejor suscripción de IA que hay ahora mismo sin duda\n\nTodos los beneficios que te da AI Ultra ✨:\n\n- Límites de Antigravity x5 o x20\n- 40 o 100 USD en créditos de GCP\n- 1.000 o 2.000 unidades de cómputo mensuales de Google Colab\n- 10.000 o 25.000 créditos"
+  },
+  {
+    "id": "sync-1795520600117-32",
+    "title": "¡Joderrrrrrr!! ¡Espera un momento, la calidad de imagen es brutal…",
+    "description": "¡Joderrrrrrr!! ¡Espera un momento, la calidad de imagen es brutalísima, ¿no?!?! Usando Colab × Blender y dejándoselo a Antigravity, ¡lo hizo completamente automático www! ① PLATEAU del Ministerio de Tierras,…",
+    "category": "3d-cad-bim",
+    "type": "x",
+    "primaryUrl": "https://x.com/29meat_ai/status/2125064361886777797",
+    "domain": "x.com",
+    "extraUrls": [],
+    "tweetUrl": "https://x.com/29meat_ai/status/2125064361886777797",
+    "author": "にく",
+    "handle": "@29meat_ai",
+    "date": "2026-11-24",
+    "tags": [
+      "Blender"
+    ],
+    "originalText": "¡Joderrrrrrr!! ¡Espera un momento, la calidad de imagen es brutalísima, ¿no?!?! Usando Colab × Blender y dejándoselo a Antigravity, ¡lo hizo completamente automático www!\n\n① PLATEAU del Ministerio de Tierras, Infraestructura, Transporte y Turismo × Blender para la base 3D de"
+  },
+  {
     "id": "item-000",
     "title": "Create Blender Story Video",
     "description": "Agent Skill que conecta todo el flujo de trabajo de Blender, desde el modelado 3D hasta la animación y edición final de vídeo.",
